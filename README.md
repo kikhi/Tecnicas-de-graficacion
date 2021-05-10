@@ -6,4 +6,4 @@ Para correr estos programas utiliza visual studio code y el entorno de desarroll
 
 https://code.visualstudio.com/docs/languages/java
 
-![](/Images/Java VScode.JPG)
+![](https://github.com/kikhi/Tecnicas-de-graficacion/blob/main/Images/Java%20VScode.JPG?raw=true)
